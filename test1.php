@@ -10,5 +10,5 @@ function f1() {
 }
 
 function f2() {
-	//
+	// i like it!
 }
