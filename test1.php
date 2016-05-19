@@ -5,6 +5,6 @@
 */
 
 function f1() {
-    //
+    // i like jazz
     echo "test2";
 }
